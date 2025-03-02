@@ -1,2 +1,1 @@
-# constant
-LBank Bugbounty POC
+# LBank Bugbounty POC
